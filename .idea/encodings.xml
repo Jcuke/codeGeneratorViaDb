@@ -19,6 +19,7 @@
     <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/config/TableConfig.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/config/Vendor.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/source/JpaRepositorySourceParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/source/VelocityEngineAware.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/AbstractElement.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/Annotation.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/Class.java" charset="UTF-8" />
