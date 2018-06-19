@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/README.md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/fastjdbc-1.0-SNAPSHOT.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/mysql-connector-java-5.1.36.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/CodeGeneratorViaDb.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/Holder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/component/AutoGeneratorConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/component/AutoGeneratorSettings.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/component/JPASupportComponent.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/entity/ColumnSchema.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/config/DriverConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/config/EnumConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/config/FieldConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/config/GeneratorConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/config/TableConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/config/Vendor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/source/JpaRepositorySourceParser.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/AbstractElement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/Annotation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/Class.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/Comment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/Extends.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/Field.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/visitor/BasicVisitor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/visitor/JpaVisitor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/visitor/MybatisVisitor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/visitor/Visitor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/generator/tree/visitor/VisitorSupport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/util/Args.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/jcuke/plugin/util/ColumnUtil.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
